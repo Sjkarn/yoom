@@ -7,9 +7,3 @@ export default function SignUpPage() {
     </main>
   );
 }
-
-// // This function is necessary for static site generation
-// export async function generateStaticParams() {
-//   // Since this page doesn't use dynamic segments, return an empty array
-//   return [];
-// }
